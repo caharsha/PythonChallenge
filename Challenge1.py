@@ -1,7 +1,7 @@
 from string import maketrans
 
 # Python Challenge
-# 2
+# 1
 # Harsha Ashokan Copparam
 # 19 June 2015
 #

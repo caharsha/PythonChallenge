@@ -1,7 +1,7 @@
 import math
 
 # Python Challenge
-# 1
+# 0
 # Harsha Ashokan Copparam
 # 19 June 2015
 #
