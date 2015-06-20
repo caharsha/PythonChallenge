@@ -14,5 +14,3 @@ for t in temp:
 
 solution = ''.join(newtemp)
 print solution
-
-#The solution is equality
